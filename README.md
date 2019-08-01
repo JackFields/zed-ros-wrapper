@@ -1,7 +1,7 @@
 ![](./images/Picto+STEREOLABS_Black.jpg)
 
 # Stereolabs ZED Camera - ROS Integration
-Fixed By Jack Fields To Run Properly on Nvidia Xavier, running Ubuntu 18.04 with 
+Fixed By Jack Fields To Run Properly on Nvidia Xavier, running Ubuntu 18.04 with Ros Melodic
 
 
 ## Getting started
